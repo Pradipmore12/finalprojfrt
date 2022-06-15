@@ -7,8 +7,10 @@ People can navigate through various sections like home, about, contact us, etc f
 
 # Website Link:
 
-Website is deployed on Microsoft Azure using Static Web Apps Servive
+Website is deployed on Microsoft Azure using Static Web Apps Service.
+
 Link:https://salmon-meadow-08ae70110.1.azurestaticapps.net
+
 
 # Home Page:
 
@@ -17,14 +19,20 @@ Link:https://salmon-meadow-08ae70110.1.azurestaticapps.net
 ![Screenshot (46)](https://user-images.githubusercontent.com/90758301/173865201-f21f6a74-b9b7-4983-ad7a-a11ad0e07a91.png)
 ![Screenshot (47)](https://user-images.githubusercontent.com/90758301/173865216-c8622a39-deb3-4608-8a16-5e7f1a2f4c1a.png)
 
+
+
 # About Section:
 
 ![Screenshot (48)](https://user-images.githubusercontent.com/90758301/173865760-3d85ae74-a8de-4fa3-b5f2-465d7a282066.png)
 ![Screenshot (49)](https://user-images.githubusercontent.com/90758301/173865783-f9070f8f-93d0-4661-bdfd-be03a157e115.png)
 ![Screenshot (50)](https://user-images.githubusercontent.com/90758301/173865790-e7e4d47c-3193-47d4-9916-1635def947a0.png)
 
+
+
 # Contact Section:
 
 ![Screenshot (51)](https://user-images.githubusercontent.com/90758301/173866052-39e08b5c-3304-4241-af49-ba48881c963f.png)
+
+
 
 THANK YOU!
